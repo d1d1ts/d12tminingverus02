@@ -1,3 +1,0 @@
-REM .\hellminer.exe -c stratum+ssl://na.luckpool.net:3958 -u RRjEiP8Zb9zepRmr9qvmFZjLmeL9apxC2t.D12t_virtual09 -p x --password Hybrid --cpu 7
-
-.\hellminer.exe -c stratum+tcp://na.luckpool.net:3960 -u RRjEiP8Zb9zepRmr9qvmFZjLmeL9apxC2t.D12t_virtual09 -p x --password Hybrid --cpu 7
